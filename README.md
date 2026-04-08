@@ -30,15 +30,6 @@ I design and ship websites, apps, IT tools & data systems — mostly self-taught
 
 ---
 
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlexanderMuehr&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMuehr&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ### 📬 Get in touch
 
 📍 Vienna, Austria  
