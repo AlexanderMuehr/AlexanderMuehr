@@ -8,16 +8,16 @@ MS Data Science @ TU Wien | Former D1 tennis player 🎾
 
 ### 🔭 Currently working on
 
-- **[Branch](https://www.linkedin.com/company/108938090)** — Co-Founder & CTO. Cross-platform app connecting student-athletes, alumni, and athletic departments across U.S. universities. React Native, Supabase.
-- **MieteMate** — Launching Vienna's first real-time rental market analytics platform with AI assistant.
+- **[Branch](https://social-branch.com)** — Co-Founder & CTO. Cross-platform app connecting student-athletes, alumni, and athletic departments across U.S. universities. React Native, Supabase.
+- **[MieteMate](https://mietemate.com)** — Launching Vienna's first real-time rental market analytics platform with AI assistant.
 - **Steuerhase** — Building an AI copilot for Austrian tax advisors.
 
 ---
 
 ### 🛠 What I've built
 
-🌐 **Branch** — Cross-platform social network for U.S. college athletics. Mobile app, admin web app, internal HQ platform. *(Co-Founder & CTO)*  
-🏠 **MieteMate** — Real-time Vienna rental market analytics with AI assistant. Next.js, Supabase, OpenAI.  
+🌐 **[Branch](https://social-branch.com)** — Cross-platform social network for U.S. college athletics. Mobile app, admin web app, internal HQ platform. *(Co-Founder & CTO)*  
+🏠 **[MieteMate](https://mietemate.com)** — Real-time Vienna rental market analytics with AI assistant. Next.js, Supabase, OpenAI.  
 🐇 **Steuerhase** — RAG-based research copilot for Austrian tax law. Multi-tenant SaaS for tax firms.  
 🏗 **ImmoRadar** — Web scraper for Austrian real estate listing data. Python.  
 🎾 **TennisMail AI** — AI-powered email management for tennis clubs. Gmail OAuth, OpenAI, Supabase.  
